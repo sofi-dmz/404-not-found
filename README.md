@@ -48,10 +48,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap 5](https://getbootstrap.com)
 
 ## Features
 
@@ -72,4 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- LinkedIn [Sofia Dominguez](https://{linkedin.com/in/anasofiadm})
